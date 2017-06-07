@@ -38,4 +38,5 @@ SUBDIRS := \
 . \
 core/core \
 libraries/DHT_sensor_library \
+libraries/LiquidCrystal/src \
 
